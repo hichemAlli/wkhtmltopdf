@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>خطة عمل شركة HANI FROID</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            direction: rtl;
+            text-align: right;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .logo {
+            width: 200px;
+            margin: 20px auto;
+            display: block;
+        }
+        .content {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .section-title {
+            color: #007BFF;
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        .table th, .table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        .table th {
+            background-color: #f2f2f2;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- صفحة الغلاف -->
+    <div class="content">
+        <h1 style="text-align: center;">خطة عمل استراتيجية لشركة HANI FROID</h1>
+        <img src="https://example.com/hani-froid-logo.png " alt="شعار HANI FROID" class="logo">
+        <p>إعداد: الشيخ دحمان باحمد (Bahmed, Chikh Dahmane)</p>
+        <p>التاريخ: [تاريخ الإعداد]</p>
+        <p>الشركات المرتبطة:</p>
+        <ul>
+            <li><img src="https://example.com/secool-logo.png " alt="شعار SECOOL" style="width: 150px;"></li>
+            <li><img src="https://example.com/green-copper-logo.png " alt="شعار GREEN COPPER" style="width: 150px;"></li>
+        </ul>
+    </div>
+
+    <!-- الفهرس -->
+    <div class="content">
+        <h2>الفهرس</h2>
+        <ol>
+            <li><a href="#goal">الهدف العام</a></li>
+            <li><a href="#objectives">الأهداف الفرعية</a></li>
+            <li><a href="#strategy">المراحل الاستراتيجية</a></li>
+            <li><a href="#success-factors">عناصر النجاح الحاسمة</a></li>
+            <li><a href="#budget">الميزانيات التقديرية</a></li>
+            <li><a href="#summary">الخلاصة</a></li>
+        </ol>
+    </div>
+
+    <!-- الهدف العام -->
+    <div class="content" id="goal">
+        <h2 class="section-title">الهدف العام</h2>
+        <p>أن تصبح شركة HANI FROID المزود الرئيسي الموثوق به لمعدات غرف التبريد وخدمات التركيب للفلاحين والمؤسسات الفلاحية في ولاية الجلفة ومناطق الجنوب المستهدفة، مما يؤدي إلى زيادة كبيرة في المبيعات والعقود خلال السنوات 3 القادمة.</p>
+    </div>
+
+    <!-- الأهداف الفرعية -->
+    <div class="content" id="objectives">
+        <h2 class="section-title">الأهداف الفرعية</h2>
+        <ol>
+            <li>زيادة الوعي بالعلامة التجارية وخدمات HANI FROID بين الفلاحين والمستثمرين الزراعيين في المناطق المستهدفة بنسبة 60% خلال 12 شهرًا.</li>
+            <li>تحقيق نمو في المبيعات المباشرة للفلاحين بنسبة 40% خلال 18 شهرًا.</li>
+            <li>تأمين 10 عقود رئيسية مع تعاونيات فلاحية كبرى أو مستثمرين زراعيين كبار خلال العام الأول.</li>
+            <li>بناء قاعدة بيانات قوية للعملاء المحتملين (Leads) وتطوير قناة اتصال فعالة معهم.</li>
+            <li>تطوير عروض قيمة مخصصة تلبي الاحتياجات المحددة للفلاحين الجنوبيين (تكلفة، طاقة، صيانة).</li>
+            <li>تعزيز سمعتنا كشريك موثوق وذو خبرة في مجال تبريد المنتجات الزراعية.</li>
+        </ol>
+    </div>
+
+    <!-- المراحل الاستراتيجية -->
+    <div class="content" id="strategy">
+        <h2 class="section-title">المراحل الاستراتيجية</h2>
+
+        <h3>المرحلة الأولى: البحث والإعداد (الشهر 1-2)</h3>
+        <p>دراسة السوق العميقة، تطوير الرسالة والعروض، إعداد الفريق والمادة التسويقية.</p>
+
+        <h3>المرحلة الثانية: الهجوم التسويقي وبناء العلاقات (الشهر 3-12)</h3>
+        <p>الحضور الميداني المكثف، بناء الشراكات الاستراتيجية، التسويق المحلي والرقمي الموجه.</p>
+
+        <h3>المرحلة الثالثة: التميز في البيع والخدمة (مستمرة)</h3>
+        <p>تقديم الحلول وليس المنتجات، التركيز على التكلفة الإجمالية للملكية، التركيب الاحترافي والسريع، خدمة ما بعد البيع المتميزة.</p>
+
+        <h3>المرحلة الرابعة: القياس والتحسين (مستمرة)</h3>
+        <p>تتبع النتائج، جمع ردود فعل العملاء، مراجعة المنافسة، تعديل الخطة.</p>
+    </div>
+
+    <!-- عناصر النجاح الحاسمة -->
+    <div class="content" id="success-factors">
+        <h2 class="section-title">عناصر النجاح الحاسمة</h2>
+        <ul>
+            <li>فريق مبيعات وتركيب مدرب ومتحمس.</li>
+            <li>المرونة في التمويل.</li>
+            <li>الجودة والموثوقية.</li>
+            <li>التركيز على القيمة والربحية للفلاح.</li>
+            <li>الاستماع الفعال.</li>
+            <li>السرعة في الاستجابة والتنفيذ.</li>
+            <li>الاستفادة من شركاء محليين.</li>
+        </ul>
+    </div>
+
+    <!-- الميزانيات التقديرية -->
+    <div class="content" id="budget">
+        <h2 class="section-title">الميزانيات التقديرية</h2>
+        <p>تتضمن الميزانيات التقديرية:</p>
+        <ul>
+            <li>التسويق والمشاركة في المعارض.</li>
+            <li>تطوير المواد التسويقية والمحتوى.</li>
+            <li>تدريب الفريق.</li>
+            <li>تكاليف السفر والانتقالات للمناطق الزراعية.</li>
+            <li>عروض ترويجية أو خصومات للمشاريع الأولى أو التعاونيات.</li>
+            <li>تطوير نظام متابعة العملاء المحتملين (CRM بسيط).</li>
+        </ul>
+    </div>
+
+    <!-- الخلاصة -->
+    <div class="content" id="summary">
+        <h2 class="section-title">الخلاصة</h2>
+        <p>الفرصة كبيرة، والمفتاح هو الخروج من مقر الشركة إلى قلب المناطق الزراعية مع بناء الثقة مع الفلاحين والتعاونيات، وفهم احتياجاتهم العميقة، وتقديم حلول متكاملة (جودة + تركيب + خدمة + تمويل) تجعل الاستثمار في غرف التبريد قرارًا سهلاً ومربحًا لهم. التركيز على خدمة ما بعد البيع سيجعل من شركة HANI FROID اسمًا موثوقًا ويولد ولاءً وتوصيات، وهي أقوى أدوات التسويق في هذا المجال.</p>
+    </div>
+
+    <!-- التذييل -->
+    <div class="footer">
+        <p>إعداد: الشيخ دحمان باحمد (Bahmed, Chikh Dahmane)</p>
+        <p>التاريخ: [تاريخ الإعداد]</p>
+        <p>للإستفسارات: info@hani-froid.com | +213 XXXXXXXXX</p>
+    </div>
+
+</body>
+</html>
